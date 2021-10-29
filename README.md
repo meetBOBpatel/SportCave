@@ -27,38 +27,59 @@ Browse sports categories to view scoring updates for domestic and international 
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* User must create an account in order to get into the app
+* User can log in, if they already have an account
+* User should be able to logout
+* User can select their favourite sports from the list of sports
+* User can select different sports to view the game scores
+* User can change pages, from stream, to profile, to Details
 
 **Optional Nice-to-have Stories**
 
 * [fill in your required user stories here]
-* ...
+* User should click on a link to watch the game on the game's website
+* User should be able update their profile
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login
+   * User can log in, if they already have an account
+   * User should click on "Sign Up" button to create an account
+
+* Register
+   * User must create an account in order to get into the app
+   
+* Profile
+   * User should be able update their profile information
+   
+* Stream
+   * User can select their favourite sports from the list of sports
+
+* Details
+   * User can select different sports to view the game scores
+   * User should click on a link to watch the game on the game's website
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Stream
+* Details
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login
+  * Stream
+* Register
+  * Stream 
+* Profile
+  * Stream
+* Stream
+  * Detail
+* Details
+  * Stream
+
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
